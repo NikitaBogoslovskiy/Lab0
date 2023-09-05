@@ -31,7 +31,7 @@ do {
 } while (true)
 
 let pointsNumber = 10;
-let maxItersNumber = 1000;
+let maxItersNumber = 100;
 let currentIterIdx = 0;
 let previousRimanSum;
 let needEscape = false;
